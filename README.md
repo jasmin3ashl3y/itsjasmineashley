@@ -4,4 +4,4 @@ This is my first time using React and I have a lot to learn. I have been forced 
 
 ### Deployed Application
 
-https://jasmin3ashl3y.github.io/itsjasmineashley1
+https://jasmin3ashl3y.github.io/itsjasmineashley

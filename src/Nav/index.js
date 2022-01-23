@@ -12,15 +12,14 @@ function Nav(props) {
 
     return (
         <div className="flex-row px-1">
-            <a href="/">
-            <span> It's </span> Jasmine Ashley
-            </a>
             <nav>
                 <ul className="flex-row">
                     <li className="mx-2">
-                    <a data-testid="about" href="#about" onClick={() => setContactSelected(false)}>
-                        About me
+                    <a href="/">
+                       
                     </a>
+                    </li>
+                    <li className="mx-2">
                     </li>
                     <li className={`mx-2 ${contactSelected && 'navActive'}`}>
                         <span onClick={() => setContactSelected(true)}>

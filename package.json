@@ -1,7 +1,7 @@
 {
-  "name": "itsjasmineashley1",
+  "name": "itsjasmineashley",
   "version": "0.1.0",
-  "homepage":"https://jasmin3ashl3y.github.io/itsjasmineashley1",
+  "homepage":"https://jasmin3ashl3y.github.io/itsjasmineashley",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
